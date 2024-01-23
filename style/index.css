@@ -1,0 +1,386 @@
+
+.hero1{
+    background-image: url(blue.png);
+    
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+.hero-blueimg{
+
+    background-image: url(building.png);
+    background-repeat: no-repeat;
+    opacity: 1.1;
+}
+.navigation{
+    padding-top: 53px;
+    padding-bottom: 221px;
+    display: flex;
+
+    padding-left: 215px;
+    
+}
+
+.nav-links{
+    margin-top: 19px;
+    margin-left: 120px;
+    
+}
+.nav-links a {
+    margin-right: 93px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    
+}
+.nav-links svg{
+    margin-left: -14px;
+    padding-right: 14px;
+    
+}
+
+.nav-icons svg{
+    padding-top: 7px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.center1 h1{
+    color: white;
+    font-size: 88px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    padding-bottom: 20px;
+}
+.center1{
+    text-align: center;
+
+}
+.center1 h3{
+    color: white;
+    font-size: 18px;
+    letter-spacing: 5.4px;
+    padding-bottom: 240px;
+}
+.center1 svg{
+    padding-bottom: 50px;
+}
+.what-we-do{
+    text-align: center;
+    margin-top: 130px;
+}
+
+#what{
+    margin-left: 613px;
+    text-align: center;
+    width: 324px;
+    padding-top: 30px;
+    border-top: 1px solid #2C4058 ;
+
+    font-size: 44px;
+    color: #2C4058;
+    font-weight: 700;
+}
+.box1{
+    margin-top: 89px;
+    display: flex;
+    padding-left: 215px;
+   padding-right: 215px;
+    padding-bottom: 210px;
+}
+.box1text{
+    text-align: start;
+    padding-top: 90px;
+    padding-left: 70px;
+}
+.box1text h2{
+    font-size: 22px;
+    color: #2C4058;
+    padding-bottom: 20px;
+}
+.box1text h1{
+    color: #2C4058;
+font-size: 44px;
+padding-bottom: 19px;
+font-weight: 700;
+}
+.box1text p{
+    display: flex;
+
+height: 81px;
+color: #2C4058;
+font-size: 18px;
+
+line-height: 30px;
+padding-bottom: 58px;
+}
+.box1text button{
+    width: 190px;
+height: 50px;
+color: #000;
+font-size: 14px;
+padding-left: 41px;
+padding-right: 41px;
+border: 1px solid #2C4058;
+background: #FFF;
+margin-bottom: 60px;
+padding-top: 17px;
+padding-bottom: 17px;
+cursor: pointer;
+}
+.box2{
+    display: flex;
+ 
+    padding-right: 220px;
+    padding-bottom: 140px;
+}
+.box2text{
+   
+    text-align: start;
+    padding-left: 215px;
+    padding-top: 90px;
+    padding-right: 70px;
+}
+.box2text h2{
+    width: 470px;
+    font-size: 22px;
+    color: #2C4058;
+    padding-bottom: 20px;
+}
+.box2text h1{
+    color: #2C4058;
+font-size: 44px;
+padding-bottom: 19px;
+font-weight: 700;
+}
+.box2text p{
+    display: flex;
+    padding-right: 50px;
+
+height: 81px;
+color: #2C4058;
+font-size: 18px;
+
+line-height: 30px;
+padding-bottom: 58px;
+}
+.box2text button{
+    width: 190px;
+height: 50px;
+color: #000;
+font-size: 14px;
+padding-left: 41px;
+padding-right: 41px;
+border: 1px solid #2C4058;
+background: #FFF;
+margin-bottom: 60px;
+padding-top: 17px;
+padding-bottom: 17px;
+cursor: pointer;
+}
+.box2text svg{
+    display: grid;
+    margin-top: -10px;
+}
+.main2{
+    background-image: url(Background\(1\).png);
+    background-repeat: no-repeat;
+    padding-bottom: 213px;
+    overflow: hidden;
+}
+
+.main2 h1{
+    text-align: center;
+    padding-top: 165px;
+    padding-bottom: 89px;
+
+    border-top: 1px solid #fff;
+    color: #FFF;
+font-size: 44px;
+font-weight: 700;
+  
+}
+.news{
+
+display: flex;
+  
+   
+   gap: 30px;
+   width: 1035px;
+  
+   
+ 
+}
+.news img{
+    
+    margin-right: 20px;
+    height: 514px;
+    padding-bottom: 20px;
+  
+}
+.width{
+    width: 1600px;
+}
+.wrap{
+    padding-left: 250px;
+}
+.gallery{
+    text-align: center;
+    background-color: white;
+    padding-top: 170px;
+    width: 100%;
+    width: 1550px;
+
+   
+}
+.gallery h1{
+    margin-left: 694px;
+    width:212px;
+    border-top: solid 1px #2C4058;
+    color: #2C4058;
+
+font-size: 44px;
+
+font-weight: 700;
+    padding-bottom: 89px;
+    text-align: center;
+}
+.gallery button{
+    width: 190px;
+height: 50px;
+color: #000;
+font-size: 14px;
+padding-left: 41px;
+padding-right: 41px;
+border: 1px solid #2C4058;
+background: #FFF;
+margin-bottom: 60px;
+padding-top: 17px;
+padding-bottom: 17px;
+cursor: pointer;
+
+}
+.gallery button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+.box2text button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+.box1text button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+.pictures{
+    display: flex;
+    justify-content: center;
+    padding-left: 182px;
+    padding-right: 182px;
+    gap: 10px;
+   
+}
+.collage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 3px 6px;
+}
+.gallery button{
+    margin-top: 76px;
+}
+.box h1{
+position: relative;
+margin-bottom: 50px;
+
+
+    
+}
+.box{
+    text-align: center;
+    margin-left: 415px;
+    margin-right: 415px;
+    margin-top: 193px;
+    margin-bottom: 200px;
+ 
+    width: 770px;
+    height: 450px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.contactflex{
+    display: flex;
+    gap: 54px;
+}
+.finish{
+    padding-top: 203px;
+    padding-bottom: 233px;
+    background-image: url(Background\(2\).png);
+    display: flex;
+    justify-content: center;
+    gap: 360px;
+}
+.box h1{
+    color: #2C4058;
+text-align: center;
+font-size: 44px;
+padding-top: 90px;
+font-weight: 700;
+}
+.contactflex{
+    padding-left: 60px;
+    
+    height: 196px;
+}
+#fname{
+    font-size: 18px;
+line-height: 27px;
+    width: 310px;
+    border: none;
+    margin-bottom: 33px;
+    border-bottom: solid 1px #2C4058;
+    
+
+}
+#email{
+    color: #4B5562;
+    font-size: 18px;
+    line-height: 27px;
+        width: 310px;
+        border: none;
+        margin-bottom: 33px;
+        border-bottom: solid 1px rgba(44,64,88,0.2);
+        
+}
+#submit{
+    width: 140px;
+    height: 50px;
+    color: #000;
+    font-size: 14px;
+    padding-left: 41px;
+    padding-right: 41px;
+    border: 1px solid #2C4058;
+    background: #FFF;
+    margin-bottom: 60px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    margin-left: 170px;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+.slick-dots li.slick-active {
+ 
+    background-color: transparent;
+    border: 1px;
+    border: solid;
+    border-color: white;
+    border-radius: 20px;
+}
+
+#scroll{
+    cursor: pointer;
+}
